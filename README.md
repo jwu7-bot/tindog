@@ -1,3 +1,5 @@
+Github pages: https://jwu7-bot.github.io/TinDog/
+
 # TinDog 🐶❤️
 
 TinDog is a playful, responsive landing page for a fictional **dog dating app**.  
