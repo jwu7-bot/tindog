@@ -1,4 +1,4 @@
-## GitHub Pages: https://jwu7-bot.github.io/TinDog/
+## GitHub Pages: https://jwu7-bot.github.io/tindog/
 
 # TinDog 🐶❤️
 
